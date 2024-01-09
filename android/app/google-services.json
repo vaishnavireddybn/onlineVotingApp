@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52541522511",
+    "project_id": "music-app-92ecf",
+    "storage_bucket": "music-app-92ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52541522511:android:e684604d5308013771203a",
+        "android_client_info": {
+          "package_name": "com.olokart.music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwolGx_DogRizAWmGhHqs9ny06qln1gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52541522511:android:2d077dd2d4cebcdd71203a",
+        "android_client_info": {
+          "package_name": "com.vote.online_voting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwolGx_DogRizAWmGhHqs9ny06qln1gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
